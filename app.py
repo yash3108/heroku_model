@@ -21,7 +21,7 @@ def process(str):
     image = image.reshape(-1, 64, 64, 3)
 
 # load model
-model = models.load_model(ASL1.h5)
+model = models.load_model('ASL1.h5')
 
 # app
 app = Flask(__name__)
