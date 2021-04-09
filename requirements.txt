@@ -2,5 +2,5 @@ Flask==1.1.1
 Flask-SQLAlchemy==2.4.0
 gunicorn==19.9.0
 requests==2.22.0
-tensorflow==2.4.1
+Keras==2.4.3
 opencv-python-headless==4.5.1.48
